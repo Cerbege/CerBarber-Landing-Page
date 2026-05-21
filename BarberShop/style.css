@@ -340,7 +340,7 @@ a {
         gap: 25px;
     }
 
-    /* Tablette 2'li yan yana dizilim, 3. kart alt satırda ortalanır */
+ 
     .features-grid {
         grid-template-columns: repeat(2, 1fr);
         gap: 35px;
